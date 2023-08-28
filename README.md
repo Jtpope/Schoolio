@@ -1,2 +1,2 @@
 # Schoolio
-My fist repository
+My first repository
